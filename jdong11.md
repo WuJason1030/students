@@ -14,3 +14,7 @@ See instructions on Canvas, Assignment 1
 
 - I like playing games and messing with computers.
 
+Link: https://www.cisa.gov/news-events/news/what-cybersecurity
+
+Some computer languages that I use are (C++, C, HTML, CSS, python, SQL, )
+Frameworks and tools include (git, Make, vscode, ssh)
